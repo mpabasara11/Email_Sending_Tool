@@ -1,0 +1,11 @@
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\bin\Debug\Email_test_1.exe.config
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\bin\Debug\Email_test_1.exe
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\bin\Debug\Email_test_1.pdb
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.csprojAssemblyReference.cache
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.Form1.resources
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.Properties.Resources.resources
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.csproj.GenerateResource.cache
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.csproj.CoreCompileInputs.cache
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.exe
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.pdb
+C:\Users\laksh\OneDrive\Documents\Visual Studio 2015\Projects\vs_2019\Email_test_1\Email_test_1\obj\Debug\Email_test_1.Form2.resources
